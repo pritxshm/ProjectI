@@ -1,4 +1,4 @@
-# pritish-s_portfolio
+# Data Industry Trends and Salary Analysis Interactive Dashboard(Power BI)
 
 Data was acquired from an online Survey of Data Professionals.
 
